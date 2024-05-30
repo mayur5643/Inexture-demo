@@ -1,2 +1,3 @@
 # apnaCollege-demo
-This is my apna college first repositiry
+This is my apna college first repositiry.
+Author - Mayur Limbachiya.
