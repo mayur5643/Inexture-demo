@@ -1,4 +1,4 @@
 # inextureReadme-demo
-This is my apna college first repositiry.
+This is my first repositiry.
 <br>
 Author - Mayur Limbachiya-Git learning
